@@ -1,2 +1,2 @@
 # Titanic_MachineLearningFromDisaster
-my kaggle competition
+my first kaggle competition
